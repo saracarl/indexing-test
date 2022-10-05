@@ -23,14 +23,6 @@
         "id": "https://saracarl.github.io/indexing-test/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
         "type": "Canvas",
         "duration": 107.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://saracarl.github.io/indexing-test/annotations/her-kind-woodberry-poetry-room-1973-canvas-1-sara.json",
-            "label": "sara"
-          }
-        ],
         "items": [
           {
             "id": "https://saracarl.github.io/indexing-test/her-kind-woodberry-poetry-room-1973/canvas-1/paintings",
@@ -49,6 +41,14 @@
                 "target": "https://saracarl.github.io/indexing-test/her-kind-woodberry-poetry-room-1973/canvas-1/canvas"
               }
             ]
+          }
+        ],
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/indexing-test/annotations/her-kind-woodberry-poetry-room-1973-canvas-1-sara.json",
+            "label": "sara"
           }
         ]
       }
